@@ -49,8 +49,8 @@ flex: 50%;
 .main{
     margin: auto;
     margin-top: 10px;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 300px;
+    margin-right: 300px;
     display: flex;
     border-radius: 10px;
     flex-direction: column;
